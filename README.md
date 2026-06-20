@@ -15,8 +15,8 @@
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/himanshu-sahu" target="_blank">LinkedIn</a> |
-<a href="mailto:himanshu.sahu@example.com">Email</a>
+<a href="https://www.linkedin.com/in/himanshu-sahu-28a079116/" target="_blank">LinkedIn</a> |
+<a href="mailto:himanshushau21@gmail.com">Email</a>
 </p>
 
 ---
