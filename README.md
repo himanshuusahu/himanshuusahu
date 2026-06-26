@@ -8,7 +8,7 @@
 - 📊 Skilled in **Databricks, SQL, Python, and OpenMetadata** for lineage, governance, and data quality.  
 - ✅ **Databricks Data Engineer Associate Certified** — strong foundation in Spark, Delta Lake, and lakehouse architecture.  
 - 🔍 Hands‑on with **OpenMetadata** for profiling, column‑level lineage, and automated metadata context retrieval.  
-- 🐳 Experienced in **Docker resource management** and API testing for metadata agents.  
+- 🐳 Experienced in **Docker resource management** and API testing .  
 - 💡 Passionate about **data observability, profiling, and clean datasets** for analytics and ML.  
 
 ---
